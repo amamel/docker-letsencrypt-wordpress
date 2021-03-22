@@ -31,7 +31,7 @@ services:
 
 
   nginx:
-    image: linuxserver/letsencrypt
+    image: linuxserver/swag
     ports:
       - 80:80
       - 443:443
