@@ -11,7 +11,7 @@
 1. Set ```.env``` variables to desired configuration
    
    > Note: Remove nginx config files if running test certificate before changing to production.
-2. `docker compose -up`
+2. `docker-compose up`
 
 ---
 
