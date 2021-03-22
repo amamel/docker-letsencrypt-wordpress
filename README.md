@@ -1,10 +1,10 @@
 # Install Let's Encrypt SSL Certificate using Docker, MySQL, nginx and Wordpress on Contabo VPS
 
-### Dependencies
-- Wordpress 5.7
-- PHP 7.3
-- nginx
-- Let's Encrypt SSL Certificate
+Install Docker WordPress container with nginx, MySQL, and Let's Encrypt SSL Certificate.
+
+### Requirements
+- Docker
+- Docker Compose
 
 ### Setup
 1. Modify environment in ```docker-compose.yaml```
